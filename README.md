@@ -19,14 +19,16 @@
 
       https://firebase.google.com/docs/auth/android/manage-users?hl=ko
 
-![1](/uploads/99b557efb0df5907ee556b2d56361e41/1.PNG)
+![1](https://user-images.githubusercontent.com/84082544/149895442-3df79ac5-9c85-4112-80a4-fc2a93d7b60a.PNG)
+
+
 
 ### 상품등록
 + Firebase에서 제공하는 Storage를 통해 데이터베이스에 사진을 저장하고 불러와 상품등록을 구현
 
       https://firebase.google.com/docs/storage/android/start?hl=ko
 
-![2](/uploads/9e7e0ce5bbb16e319073397c5e267157/2.PNG)
+![2](https://user-images.githubusercontent.com/84082544/149895447-66b43340-3c57-406a-a09f-f6003ef183fe.PNG)
 
 ### 장바구니
 
